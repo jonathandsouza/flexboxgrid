@@ -16,7 +16,7 @@
 	--container-sm: 45rem;
 	--container-md: 45rem;
 	--container-lg: 58.75rem;
-	--container-xl: 69.375rem
+	--container-xl: 71.25rem
 }
 
 @custom-media --sm-viewport only screen and (min-width: 36rem);
