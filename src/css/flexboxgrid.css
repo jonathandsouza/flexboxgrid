@@ -16,7 +16,7 @@
 	--container-sm: 45rem;
 	--container-md: 45rem;
 	--container-lg: 58.75rem;
-	--container-xl: 71.25rem
+	--container-xl: 73.125rem
 }
 
 @custom-media --sm-viewport only screen and (min-width: 36rem);
@@ -249,7 +249,7 @@
 @media only screen and (max-width: 48rem) {
 	.container {
 		max-width: 45rem;
-		width:auto;
+		width: auto;
 	}
 }
 
